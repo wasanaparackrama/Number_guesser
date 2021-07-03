@@ -1,0 +1,13 @@
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.exe
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.deps.json
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.json
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.dev.json
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.dll
+D:\c#\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.pdb
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csproj.AssemblyReference.cache
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfoInputs.cache
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfo.cs
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csproj.CoreCompileInputs.cache
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.dll
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.pdb
+D:\c#\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.genruntimeconfig.cache
